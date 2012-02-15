@@ -1,16 +1,31 @@
 
 ;; ----- smex-history -----
 (
- cd
- 5x5
- arp
- dbx
- dig
- erc
- ert
+ js2-mode
+ eval-buffer
+ rsense-type-help
+ package-list-packages
+ eval-region
+ menu-bar-mode
+ find-grep
 )
 
 ;; ----- smex-data -----
 (
- 
+ (package-list-packages . 3)
+ (ecb-activate . 9)
+ (ecb-byte-compile . 2)
+ (find-grep . 3)
+ (comment-or-uncomment-region . 1)
+ (uncomment-region . 1)
+ (comment-region . 1)
+ (untabify . 2)
+ (ecb-change-layout . 3)
+ (menu-bar-mode . 1)
+ (js2-mode . 3)
+ (rsense-complete . 2)
+ (eval-region . 1)
+ (ac-complete-rsense . 1)
+ (rsense-type-help . 1)
+ (eval-buffer . 1)
 )
